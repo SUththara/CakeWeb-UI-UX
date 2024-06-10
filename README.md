@@ -1,0 +1,1 @@
+Our cake website UI, crafted with Figma, offers a delightful user experience for all dessert enthusiasts. With its clean and intuitive design, navigating through the mouthwatering selection of cakes is a piece of cake!
